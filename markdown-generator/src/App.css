@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  height: 100vh;
+  padding: 20px 0;
+}
+
+textarea{
+  width: 100%;
+}
+
+.card-text{
+  height: 100%;
+}
